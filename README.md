@@ -36,8 +36,8 @@ BMI?
 ## Exploratory Data Analysis
 ![Distribution of Medical Charges](images/health_expenditure.png)
 ![Log Health Expenditure Distribution](images/log_health_expenditure.png)
-![Health Expenditure by Smoking Status](figures/smoking_status_healthexp.png)
-
+![Health Expenditure by Smoking Status](images/smoking_status_healthexp.png)
+![Healthcare Expenditure by Age and Smoking Status](images/age_smoking_healthexp.png)
 
 Expenditure is heavily right-skewed and becomes close to symmetric after a
 log transform. Smokers show both higher median expenditure and a much
