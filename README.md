@@ -37,8 +37,12 @@ BMI?
 
 | | |
 |---|---|
-| ![Expenditure distribution](figures/expenditure_distribution.png) | ![Log expenditure distribution](figures/log_expenditure_distribution.png) |
-| ![By smoking status](figures/expenditure_by_smoking.png) | ![Age vs expenditure](figures/age_expenditure.png) |
+| ![Expenditure distribution](<img width="962" height="508" alt="health_expenditure" src="https://github.com/user-attachments/assets/c6e65e0e-853b-4ffc-a59b-c4cb6182337e" />
+) | ![Log expenditure distribution](<img width="962" height="508" alt="log_health_expenditure" src="https://github.com/user-attachments/assets/e5f841cb-9586-4211-a01c-ad5800d82d8a" />
+) |
+| ![By smoking status](<img width="962" height="508" alt="smoking_status_healthexp" src="https://github.com/user-attachments/assets/71f1ff86-a4e7-4ae3-9b04-90d39c7c6824" />
+) | ![Age vs expenditure](<img width="962" height="508" alt="age_smoking_healthexp" src="https://github.com/user-attachments/assets/549df232-f57f-4dc3-b24f-68ffee5ee985" />
+) |
 
 Expenditure is heavily right-skewed and becomes close to symmetric after a
 log transform. Smokers show both higher median expenditure and a much
