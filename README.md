@@ -35,7 +35,7 @@ BMI?
 
 ## Exploratory Data Analysis
 
-![Expenditure distribution](<img width="962" height="508" alt="health_expenditure" src="https://github.com/user-attachments/assets/c6e65e0e-853b-4ffc-a59b-c4cb6182337e" />
+[Expenditure distribution](<img width="962" height="508" alt="image" src="https://github.com/user-attachments/assets/e3406d20-d716-41b2-958e-e6b9316e57ac" />
 ) | ![Log expenditure distribution](<img width="962" height="508" alt="log_health_expenditure" src="https://github.com/user-attachments/assets/e5f841cb-9586-4211-a01c-ad5800d82d8a" />
 ) |
 | ![By smoking status](<img width="962" height="508" alt="smoking_status_healthexp" src="https://github.com/user-attachments/assets/71f1ff86-a4e7-4ae3-9b04-90d39c7c6824" />
