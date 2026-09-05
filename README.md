@@ -34,13 +34,10 @@ BMI?
 - Mean-centered `age` and `bmi` before building interaction terms
 
 ## Exploratory Data Analysis
+![Distribution of Medical Charges](images/health_expenditure.png)
+![Log Health Expenditure Distribution](images/log_health_expenditure.png)
+![Health Expenditure by Smoking Status](figures/smoking_status_healthexp.png)
 
-[Expenditure distribution](<img width="962" height="508" alt="image" src="https://github.com/user-attachments/assets/e3406d20-d716-41b2-958e-e6b9316e57ac" />
-) | ![Log expenditure distribution](<img width="962" height="508" alt="log_health_expenditure" src="https://github.com/user-attachments/assets/e5f841cb-9586-4211-a01c-ad5800d82d8a" />
-) |
-| ![By smoking status](<img width="962" height="508" alt="smoking_status_healthexp" src="https://github.com/user-attachments/assets/71f1ff86-a4e7-4ae3-9b04-90d39c7c6824" />
-) | ![Age vs expenditure](<img width="962" height="508" alt="age_smoking_healthexp" src="https://github.com/user-attachments/assets/549df232-f57f-4dc3-b24f-68ffee5ee985" />
-)
 
 Expenditure is heavily right-skewed and becomes close to symmetric after a
 log transform. Smokers show both higher median expenditure and a much
